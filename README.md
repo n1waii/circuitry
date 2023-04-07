@@ -1,2 +1,2 @@
 # circuitry
-An free online circuit playground with pleasing interface. 
+An free online circuit playground with pleasing visuals. 
